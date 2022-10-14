@@ -1,0 +1,14 @@
+#extra-credit-container {
+    flex-wrap: wrap;
+}
+#extra-credit-container .flex-item {
+    max-width: unset;
+    flex: 1;
+    margin: auto;
+    border: solid 1px rgb(203, 247, 237);
+}
+#extra-credit-container .flex-item;:hover {
+    transition: 0.2s;
+    flex: 2;
+    color: rgb(38, 48, 87);
+}
