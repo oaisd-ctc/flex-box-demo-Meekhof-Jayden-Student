@@ -44,7 +44,7 @@ article>div {
 }
 
 #flex-box-container{
-	animation: pulse 2s infinite;
+	animation: pulse 1s infinite;
 }
 
 @keyframes pulse {
@@ -96,7 +96,7 @@ article>div {
     background-color: rgb(0, 233, 241);
     color: rgb(71, 205, 209);
     margin-left: .5em;
-	animation: pulse 2s infinite;
+	animation: pulse 1s infinite;
     
 }
 
