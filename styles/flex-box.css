@@ -44,7 +44,7 @@ article>div {
 }
 
 #flex-box-container{
-	animation: pulse 1s infinite;
+	animation: pulse 2s infinite;
 }
 
 @keyframes pulse {
