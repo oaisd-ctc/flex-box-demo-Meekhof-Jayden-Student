@@ -26,7 +26,7 @@ article {
 article>div {
     flex: 1;
     margin: 1em;
-    border: solid 1px rgb(68, 68, 68);
+    border: solid 1px rgb(99, 207, 182);
     width:100%;
 }
 
@@ -72,7 +72,7 @@ article>div {
 
 .flex-box-explain {
     flex: 1;
-    border: solid 1px rgb(77, 233, 129);
+    border: solid 1px rgb(99, 207, 182);
 }
 
 .flex-items-container {
